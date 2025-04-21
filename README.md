@@ -1,5 +1,4 @@
-# CS50-finalproject
-# Portfolio for All!
+# CS50-finalproject - Portfolio for All!
 #### Video Demo:  https://youtu.be/dYI1TsE32vE
 #### Description:
 
